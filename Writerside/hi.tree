@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Help Instance"
+                 start-page="Pytton-quick-reference.md">
+
+    <toc-element topic="Pytton-quick-reference.md">
+    </toc-element>
+    <toc-element topic="Basic-data-structures.md">
+        <toc-element topic="List.md"/>
+        <toc-element topic="Tuple.md"/>
+        <toc-element topic="Set.md"/>
+        <toc-element topic="Dictionary.md"/>
+    </toc-element>
+    <toc-element topic="Control-flows.md">
+        <toc-element topic="if-and-else.md"/>
+        <toc-element topic="while.md"/>
+        <toc-element topic="for.md"/>
+    </toc-element>
+    <toc-element topic="Functions.md"/>
+</instance-profile>
